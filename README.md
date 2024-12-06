@@ -1,7 +1,11 @@
-## Hii! My name is João Pedro
+## Hii people! I'm João Pedro
 
-- 17y
-- Java Developer
+🌟 Java Developer | 💻 Minecraft Plugin Creator | 🎮 Gaming Enthusiast
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPM-codes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPM-codes&layout=compact&theme=radical)
+## About Me:
+- Age: 17 years old
+- Location: Brazil
+- Working on: Minecraft Plugins.
+
+<h2>Languages</h2>
+<hr>
