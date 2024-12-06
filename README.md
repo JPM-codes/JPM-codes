@@ -3,9 +3,9 @@
 🌟 Java Developer | 💻 Minecraft Plugin Creator | 🎮 Gaming Enthusiast
 
 About Me:
-🗓 Age: 17 years old
-📍 Location: Brazil
-🔭 Working on: Minecraft Plugins
+ - 🗓 Age: 17 years old
+ - 📍 Location: Brazil
+ - 🔭 Working on: Minecraft Plugins
 
 <h2>🛠️ Languages</h2>
 <div style="display: inline_block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="background: #f7df1e; border-radius: 5px; padding: 5px; margin: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="background: #f7e018; border-radius: 5px; padding: 5px; margin: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="background: #007acc; border-radius: 5px; padding: 5px; margin: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="background: #306998; border-radius: 5px; padding: 5px; margin: 5px;" /> </div>
