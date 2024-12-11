@@ -3,7 +3,7 @@
 🌟 Java Developer | 💻 Minecraft Plugin Creator | 🎮 Gaming Enthusiast
 
 About Me:
- - 🗓 Age: 17 years old
+ - 🗓 Age: 18 years old
  - 📍 Location: Brazil
  - 🔭 Working on: Minecraft Plugins
 
