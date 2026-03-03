@@ -27,8 +27,6 @@ About Me:
  <img src="https://skillicons.dev/icons?i=gmail"
  style="margin-left:10px">
  </a> 
- <a href="https://github.com/JPM-codes" target="_blank"><img src="https://skillicons.dev/icons?i=github"
- style="margin-left:10px"> </a> 
 <a href="https://www.linkedin.com/in/joaopedrodevs/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"
 style="margin-left:10px"></a>
  <a href="https://discord.com/users/jpdevs." target="_blank"><img src="https://skillicons.dev/icons?i=discord"
