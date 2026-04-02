@@ -1,7 +1,7 @@
 # João P. Mello
 ### 👨‍💻 Desenvolvedor FullStack
 
-Sou um entusiasta da tecnologia desde os meus 10 anos! Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento web e criar soluções para o dia a dia.
+Sou um entusiasta da tecnologia desde os meus 10 anos! Atualmente estou focado em aprimorar minhas habilidades no desenvolvimento web e criar soluções para o dia a dia.
 
 - 🎓 Concluí o ensino médio no **Colégio Maria Rosa Nucci Pácifico Homem**.
 - 🚀 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **ETEC Alberto Feres**.
