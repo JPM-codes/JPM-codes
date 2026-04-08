@@ -34,6 +34,9 @@ style="margin-left:10px"></a>
     <img src="https://skillicons.dev/icons?i=windows,linux,debian">
 </div>
 
-https://github-readme-stats.anuraghazra1.vercel.app/api?username=JPM-codes&show_icons=true
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JPM-CODES&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JPM-CODES&" alt="soumyajit" />
+</div>
 
 
