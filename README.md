@@ -34,3 +34,6 @@ style="margin-left:10px"></a>
     <img src="https://skillicons.dev/icons?i=windows,linux,debian">
 </div>
 
+https://github-readme-stats.anuraghazra1.vercel.app/api?username=JPM-codes&show_icons=true
+
+
